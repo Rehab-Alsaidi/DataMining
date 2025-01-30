@@ -39,7 +39,7 @@ This project analyzes heart disease risk factors using **data mining techniques*
 ## Workflow
 Below is the workflow used in **Orange** for data preprocessing, visualization, and association rule mining:
 
-![Workflow](image.png)
+![Workflow]([image.png](https://github.com/Rehab-Alsaidi/DataMining/blob/main/workflow.png))
 
 ## Experiments & Results
 - Conducted multiple experiments with varying **support (Min Supp) and confidence (Min Conf)** levels.
